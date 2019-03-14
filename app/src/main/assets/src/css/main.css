@@ -1,0 +1,116 @@
+.clearfix{overflow:auto;_height:1%}
+/* book列表 */
+.book-box{
+    display: block;
+}
+.book-box-inl,
+.book-box-inr{
+    float: left;
+    color:black;
+}
+.book-box-inl{
+    width: 22%;
+}
+.book-box-inl img{
+    width: 100%;
+    padding: 5px;
+}
+.book-box-inr{
+    width: 78%;
+}
+.book-title{
+    font-size: 17px;
+    margin: 3px 10px 5px 30px;
+}
+
+.book-short-detail{
+    font-size: 11px;
+    margin: 3px 10px 5px 30px;    
+    height: 30px;
+    color: #525252;
+    letter-spacing: 0.5px;
+}
+.book-tags{
+    font-size: 9px;
+    margin: 10px 5px 10px 30px;
+}
+.book-tag-age,
+.book-tag-cate{
+    border: 1px solid;
+    border-radius: 30px;
+    padding: 0px 8px;
+    margin-right: 5px;
+    font-weight: 300;
+}
+.book-tag-age{
+    border-color: #F9D22D;
+    color:#F9D22D;
+}
+.book-tag-cate{
+    border-color: #c4c4c4;
+    color:#c4c4c4;
+}
+.book-states{
+    font-size: 11px;
+    margin-left: 30px;
+    font-weight: 400;
+}
+.book-play-times{
+    color: #c4c4c4;
+}
+.book-on-date{
+    display: inline-block;
+    float: right;
+    margin-right: 5px;
+    color:#F9D22D;
+}
+
+
+#listen,
+#home{
+    color: #fff;
+    text-decoration-line: none;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 3px;
+    background-color: #2d9456;
+    margin: 20px 5px;
+    display: inline-block;
+    z-index: 99;
+    position: relative;
+}
+
+/*
+**
+**页面内部播放界面
+**
+*/
+.book-in-main-container{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.book-in-head{
+    padding-top: 25px;
+    margin-bottom: 15px;
+}
+.experience-tag{
+    color:#fff;
+    font-size: 10px;
+    background: #EE8C75;
+    padding: 1px 5px;
+    border-radius: 20px;
+    vertical-align: top;
+    top: 4px;
+    position: relative;
+    margin-right: 4px;
+}
+.book-in-title{
+    font-size: 17px;
+}
+.book-in-short{
+    font-size: 12px;
+    line-height: 1.4;
+    letter-spacing: 0.7px;
+    color:#c4c4c4;
+    font-weight: 400;
+}

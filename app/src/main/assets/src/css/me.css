@@ -1,0 +1,135 @@
+.me-info{
+    padding-top: 80px;
+    height: 100px;
+    background: url("../img/me-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.me-logo{    
+    margin-left: 20px;
+    margin-right: 10px;
+    width: 13%;
+}
+.me-logo img{
+    width: 100%;
+    border-radius: 200px;
+}
+.me-name{
+    color:#fff;
+    margin-bottom: 8px;
+}
+.me-birth{
+    color:#fff;
+    font-size: 11px;
+}
+.points{
+    margin-right: 20px;
+}
+.ponits-num{
+    text-align: center;
+    color:#fff;
+    font-size: 10px;
+}
+.points-shop{
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    color:#E05804;
+    background-color: #FFE54E;
+    padding:4px 8px;
+    border-radius: 15px;
+    border: 1px solid #fff;
+    /* font-weight: bold; */
+}
+
+/* 会员权益 */
+.vip-box{
+    width: 290px;
+    /* height: 150px; */
+    margin: 5px auto;
+    box-shadow: 1px 2px 5px #cfcfcf7d;
+    border-radius: 15px;
+    margin-top: -20px;
+    background: #fff;
+    padding: 15px 13px;
+}
+.vip-head{
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #3D4243;
+}
+.vip-end-date{
+    font-size: 11px;
+    color:#c4c4c4;
+    letter-spacing: 0.5px;
+}
+.vip-has{
+    text-align: center;
+}
+.vip-has img{
+    text-align: center;
+    width: 60px;
+    padding: 5px 5px 0 5px;
+}
+.buy-to-know{
+    text-align: center;
+    font-size: 11px;
+    letter-spacing: 0.3px;
+    color:#52C9BB;
+}
+.buy-vip{
+    font-size: 13px;
+    font-weight: 300;
+    text-align: center;
+    color: #fff;
+    background: #4CC7B9;
+    border-radius: 20px;
+    display: block;
+    width: 180px;
+    margin: 8px auto 0;
+    padding: 3px;
+    letter-spacing: 1px;
+}
+/* 邀请 */
+.invite{
+    /* width: 100%; */
+    text-align: center;
+}
+.invite img{
+    width: 320px;
+    margin: 0 auto;
+}
+
+/* 功能 */
+.manage-box{
+    width: 80%;
+    margin: 0 auto 30px;
+}
+.manage-box-one{
+    width: 33.33%;
+    float: left;
+    font-size: 12px;
+    text-align: center;
+    color: #5F5F5F;
+}
+.manage-box-one img{
+    width: 55px;
+    text-align: center;
+} 
+.manage-line{
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    height: 0.5px;
+    background: #dfdcdc;
+}
+.fun-info-num{
+    font-size: 11px;
+    color: #9A9A9A;
+}
+
+
+
+
